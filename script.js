@@ -1,4 +1,3 @@
-Script.js
 
 const foods = {
 apple:{
